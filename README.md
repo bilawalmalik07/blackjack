@@ -1,6 +1,6 @@
-# 🃏 Terminal Blackjack by Bilawal
+# 🃏 Terminal Blackjack
 
-A sleek, colorized Command Line Interface (CLI) version of the classic casino game, Blackjack. Built with Python and styled with `colorama` for an immersive terminal experience.
+A sleek, colorized Command Line Interface (CLI) version of the classic game, Blackjack. Built with Python and styled with `colorama` for an immersive terminal experience.
 
 ## 🚀 Features
 
