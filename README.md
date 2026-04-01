@@ -2,6 +2,8 @@
 
 A sleek, colorized Command Line Interface (CLI) version of the classic game, Blackjack. Built with Python and styled with `colorama` for an immersive terminal experience.
 
+![Demo Video](https://github.com/user-attachments/assets/08cc0a2b-1dab-4e7c-89ae-b1dd52f520c0)
+
 Click the button below to run this app instantly in your browser:
 
 > [!IMPORTANT]
