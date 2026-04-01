@@ -1,5 +1,5 @@
 {
-  "name": "Python 3 Blackjack",
+  "name": "Python 3 Blackjack", 
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "postCreateCommand": "pip install -r requirements.txt"
 }
