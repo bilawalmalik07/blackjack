@@ -2,7 +2,9 @@
 
 A sleek, colorized Command Line Interface (CLI) version of the classic game, Blackjack. Built with Python and styled with `colorama` for an immersive terminal experience.
 
-## 🚀 Features
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/bilawalmalik07/blackjack)
+
+## 🚀 Key Features
 
 - **Dynamic Color Scheme**: Uses Green, Cyan, Red, and Yellow to distinguish between player, dealer, and game states.
 - **Persistent Stats**: Tracks your wins, losses, and ties across multiple rounds.
