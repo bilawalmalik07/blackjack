@@ -54,7 +54,7 @@ def main():
                 break
 
             move = input(
-                f"\nSo hit or stand? ").lower().strip()
+                f"\nSo hit or stand? ").lower()
             if move == 'hit':
                 player_hand.append(deck_items.pop())
             elif move == 'stand':
